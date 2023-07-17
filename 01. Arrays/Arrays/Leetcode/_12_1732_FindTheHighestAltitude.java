@@ -12,11 +12,9 @@ public class _12_1732_FindTheHighestAltitude{
             for (int altitudeGain : gain) {
                 // Adding the gain in altitude to the current altitude.
                 currentAltitude += altitudeGain;
-                System.out.print(currentAltitude + " "); 
                 // Update the highest altitude.
                 highestPoint = Math.max(highestPoint, currentAltitude);
             }
-            System.out.println(); 
             return highestPoint;
     }
 }
