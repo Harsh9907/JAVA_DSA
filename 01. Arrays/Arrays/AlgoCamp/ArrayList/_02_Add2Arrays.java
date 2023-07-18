@@ -1,5 +1,4 @@
 package ArrayList;
-import java.sql.Array;
 import java.util.ArrayList;
 
 public class _02_Add2Arrays {

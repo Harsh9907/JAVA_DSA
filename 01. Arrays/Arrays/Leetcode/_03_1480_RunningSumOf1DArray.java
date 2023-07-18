@@ -15,4 +15,12 @@ public class _03_1480_RunningSumOf1DArray {
         }
         return newArr;
     }
+    public static int[] runningSum1(int[] nums){
+        int[] result = new int[nums.length];
+        result[0] = nums[0];
+        for (int i = 0; i < nums.length; i++) {
+            result[i] = result[i-1]+ nums[i];
+        }
+        return result;
+    }
 }

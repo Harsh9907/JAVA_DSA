@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class _01BuildArrayFromPermutation{
+public class _01_BuildArrayFromPermutation{
     public static void main(String[] args) {
         int[] nums = {0,2,1,5,3,4};
         int[] ans = buildArray(nums);
