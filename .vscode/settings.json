@@ -1,6 +1,3 @@
 {
-  "java.project.sourcePaths": [
-    "01. Arrays/Arrays/Leetcode",
-    "01. Arrays/Arrays/AlgoCamp"
-  ]
+  "java.project.sourcePaths": ["01. Arrays/Arrays/Leetcode"]
 }
