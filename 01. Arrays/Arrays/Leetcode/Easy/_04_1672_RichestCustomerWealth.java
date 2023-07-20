@@ -1,4 +1,4 @@
-import java.util.*;
+package Easy;
 
 public class _04_1672_RichestCustomerWealth {
     public static void main(String[] args) {

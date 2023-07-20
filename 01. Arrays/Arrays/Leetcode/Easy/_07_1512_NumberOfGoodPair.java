@@ -1,3 +1,4 @@
+package Easy;
 public class _07_1512_NumberOfGoodPair{
     public static void main(String[] args){
         int[] nums = {1,2,3}; //0

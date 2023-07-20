@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/create-target-array-in-the-given-order/
+package Easy;
 import java.util.*;
 public class _09_1389_CreateTargetArray {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Easy;
 import java.util.*;
 
 public class _08_1365_SmallerNumberThanCurrent{
