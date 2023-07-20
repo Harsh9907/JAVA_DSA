@@ -1,3 +1,4 @@
+package Easy;
 import java.util.*;
 
 public class _06_1431_KidsWithGreatestNoOfCandies {

@@ -1,3 +1,4 @@
+package Easy;
 import java.util.*;
 
 public class _01_BuildArrayFromPermutation{
