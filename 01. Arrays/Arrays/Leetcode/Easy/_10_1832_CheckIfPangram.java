@@ -1,3 +1,4 @@
+package Easy;
 public class _10_1832_CheckIfPangram {
     public static void main(String[] args) {
         // String sentence = "thequickbrownfoxjumpsoverthelazydog";

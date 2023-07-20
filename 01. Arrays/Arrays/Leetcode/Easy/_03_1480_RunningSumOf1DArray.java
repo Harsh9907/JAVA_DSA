@@ -1,3 +1,4 @@
+package Easy;
 import java.util.*;
 
 public class _03_1480_RunningSumOf1DArray {

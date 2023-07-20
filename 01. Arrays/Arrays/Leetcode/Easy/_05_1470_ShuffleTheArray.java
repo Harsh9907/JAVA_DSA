@@ -1,3 +1,4 @@
+package Easy;
 import java.util.*;
 
 public class _05_1470_ShuffleTheArray {

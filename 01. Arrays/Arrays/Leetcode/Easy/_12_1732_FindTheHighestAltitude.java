@@ -1,3 +1,4 @@
+package Easy;
 public class _12_1732_FindTheHighestAltitude{
     public static void main(String[] args) {
         int[] gain = {-5,1,5,0,-7};
