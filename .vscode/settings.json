@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "01. Arrays/Searching",
     "01. Arrays/Arrays/Leetcode",
-    "01. Arrays/Searching"
+    "03. Recursion/Basics"
   ]
 }
