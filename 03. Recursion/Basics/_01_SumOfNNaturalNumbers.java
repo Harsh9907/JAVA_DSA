@@ -8,7 +8,6 @@ public class _01_SumOfNNaturalNumbers {
         if (num == 1) {
             return 1;
         }
-        int smallSum = sumOfFirstNNaturalNumbers(num - 1);
-        return num + smallSum;
+        return num + sumOfFirstNNaturalNumbers(num - 1);
     }
 }
