@@ -1,11 +1,15 @@
-public class FirstAndLastPosition {
-    public static void main(String[] args) {
+import java.util.Arrays;
 
+public class _05_FirstAndLastOccurence {
+    public static void main(String[] args) {
+        int[] nums = { 1, 2, 3, 4, 5, 5, 5, 6 };
+        int[] result = searchRange(nums, 8);
+        System.out.println(Arrays.toString(result));
     }
 
-    public int[] searchRange(int[] nums, int target) {
+    public static int[] searchRange(int[] nums, int target) {
 
-        int[] ans = {-1, -1};
+        int[] ans = { -1, -1 };
         // check for first occurrence if target first
         ans[0] = search(nums, target, true);
         if (ans[0] != -1) {
@@ -14,12 +18,11 @@ public class FirstAndLastPosition {
         return ans;
     }
 
-    // this function just returns the index value of target
-    int search(int[] nums, int target, boolean findStartIndex) {
+    public static int search(int[] nums, int target, boolean findStartIndex) {
         int ans = -1;
         int start = 0;
         int end = nums.length - 1;
-        while(start <= end) {
+        while (start <= end) {
             int mid = start + (end - start) / 2;
 
             if (target < nums[mid]) {
