@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _03_RotationOfArray {
+public class _02_RotationOfArray {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
         rotateArray(arr, -1);
