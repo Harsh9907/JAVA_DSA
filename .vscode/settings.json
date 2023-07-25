@@ -1,7 +1,8 @@
 {
   "java.project.sourcePaths": [
+    "03. Recursion/Basics",
     "01. Arrays/Searching",
     "01. Arrays/Arrays/Leetcode",
-    "03. Recursion/Basics"
+    "02. Strings/AlgoCamp"
   ]
 }
