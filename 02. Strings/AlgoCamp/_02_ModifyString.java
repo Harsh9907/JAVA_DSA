@@ -15,11 +15,12 @@ public class _02_ModifyString {
             char ch = str.charAt(i);
             if (i % 2 == 0) {
                 ch = (char) (ch + 1);
-                str1.setCharAt(i, ch);
+
             } else {
                 ch = (char) (ch - 1);
-                str1.setCharAt(i, ch);
+                // str1.setCharAt(i, ch);
             }
+            str1.setCharAt(i, ch);
         }
         return str1.toString();
     }
