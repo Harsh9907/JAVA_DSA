@@ -1,8 +1,10 @@
 {
   "java.project.sourcePaths": [
     "03. Recursion/Basics",
+    "02. Strings/AlgoCamp",
     "01. Arrays/Searching",
     "01. Arrays/Arrays/Leetcode",
-    "02. Strings/AlgoCamp"
-  ]
+    "02. Strings/StringBuilder"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
