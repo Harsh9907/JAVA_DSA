@@ -1,0 +1,294 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "_04_Merge2SortedArrays",
+      "request": "launch",
+      "mainClass": "_04_Merge2SortedArrays",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_BubbleSorting",
+      "request": "launch",
+      "mainClass": "_02_BubbleSorting",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "_01_BuildArrayFromPermutation",
+      "request": "launch",
+      "mainClass": "Easy._01_BuildArrayFromPermutation",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_1929_ConcatenationOfArray",
+      "request": "launch",
+      "mainClass": "Easy._02_1929_ConcatenationOfArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_1480_RunningSumOf1DArray",
+      "request": "launch",
+      "mainClass": "Easy._03_1480_RunningSumOf1DArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_04_1672_RichestCustomerWealth",
+      "request": "launch",
+      "mainClass": "Easy._04_1672_RichestCustomerWealth",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_05_1470_ShuffleTheArray",
+      "request": "launch",
+      "mainClass": "Easy._05_1470_ShuffleTheArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_06_1431_KidsWithGreatestNoOfCandies",
+      "request": "launch",
+      "mainClass": "Easy._06_1431_KidsWithGreatestNoOfCandies",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_07_1512_NumberOfGoodPair",
+      "request": "launch",
+      "mainClass": "Easy._07_1512_NumberOfGoodPair",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_08_1365_SmallerNumberThanCurrent",
+      "request": "launch",
+      "mainClass": "Easy._08_1365_SmallerNumberThanCurrent",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_09_1389_CreateTargetArray",
+      "request": "launch",
+      "mainClass": "Easy._09_1389_CreateTargetArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_10_1832_CheckIfPangram",
+      "request": "launch",
+      "mainClass": "Easy._10_1832_CheckIfPangram",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_12_1732_FindTheHighestAltitude",
+      "request": "launch",
+      "mainClass": "Easy._12_1732_FindTheHighestAltitude",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_13_832_FlippingAnImage",
+      "request": "launch",
+      "mainClass": "Easy._13_832_FlippingAnImage",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_15_1572_MatrixDiagonalSum",
+      "request": "launch",
+      "mainClass": "Easy._15_1572_MatrixDiagonalSum",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_16_1295_FindNumbersWithEvenNumberOfDigits",
+      "request": "launch",
+      "mainClass": "Easy._16_1295_FindNumbersWithEvenNumberOfDigits",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_17_867_TransposeMatrix",
+      "request": "launch",
+      "mainClass": "Easy._17_867_TransposeMatrix",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_18_989_AddToArraysFormOfInteger",
+      "request": "launch",
+      "mainClass": "Easy._18_989_AddToArraysFormOfInteger",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_19_1854_MaximumPopulationYear",
+      "request": "launch",
+      "mainClass": "Easy._19_1854_MaximumPopulationYear",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_21_1_TwoSum",
+      "request": "launch",
+      "mainClass": "Easy._21_1_TwoSum",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_BinarySearch",
+      "request": "launch",
+      "mainClass": "_01_BinarySearch",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_Palindrome",
+      "request": "launch",
+      "mainClass": "_01_Palindrome",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_ReverseArray",
+      "request": "launch",
+      "mainClass": "_01_ReverseArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_SelectionSorting",
+      "request": "launch",
+      "mainClass": "_01_SelectionSorting",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_Stringbuilder",
+      "request": "launch",
+      "mainClass": "_01_Stringbuilder",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_01_SumOfNNaturalNumbers",
+      "request": "launch",
+      "mainClass": "_01_SumOfNNaturalNumbers",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_CeilingOfANumber",
+      "request": "launch",
+      "mainClass": "_02_CeilingOfANumber",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_ModifyString",
+      "request": "launch",
+      "mainClass": "_02_ModifyString",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_PrintingNNaturalNumberInIncOrder",
+      "request": "launch",
+      "mainClass": "_02_PrintingNNaturalNumberInIncOrder",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_02_RotationOfArray",
+      "request": "launch",
+      "mainClass": "_02_RotationOfArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_Factorial",
+      "request": "launch",
+      "mainClass": "_03_Factorial",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_FloorOfANumber",
+      "request": "launch",
+      "mainClass": "_03_FloorOfANumber",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_SubArrays",
+      "request": "launch",
+      "mainClass": "_03_SubArrays",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_Substring",
+      "request": "launch",
+      "mainClass": "_03_Substring",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_04_ArraySumDecSize",
+      "request": "launch",
+      "mainClass": "_04_ArraySumDecSize",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_04_ContainDuplicate",
+      "request": "launch",
+      "mainClass": "_04_ContainDuplicate",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_04_OrderAgniosticBS",
+      "request": "launch",
+      "mainClass": "_04_OrderAgniosticBS",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_05_Fibonacci",
+      "request": "launch",
+      "mainClass": "_05_Fibonacci",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_05_FirstAndLastOccurence",
+      "request": "launch",
+      "mainClass": "_05_FirstAndLastOccurence",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_4_1624_largestSubstringBW2EqualCharacters",
+      "request": "launch",
+      "mainClass": "_4_1624_largestSubstringBW2EqualCharacters",
+      "projectName": "JAVA_DSA_cf954646"
+    }
+  ]
+}
