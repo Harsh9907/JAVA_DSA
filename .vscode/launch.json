@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_03_InsertionSorting",
+      "request": "launch",
+      "mainClass": "_03_InsertionSorting",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_04_Merge2SortedArrays",
       "request": "launch",
       "mainClass": "_04_Merge2SortedArrays",
