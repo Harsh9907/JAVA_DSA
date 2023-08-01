@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_21InputAndPrinting2DArray",
+      "request": "launch",
+      "mainClass": "_21InputAndPrinting2DArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_11TripleSum",
       "request": "launch",
       "mainClass": "_11TripleSum",
