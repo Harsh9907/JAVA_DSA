@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_11TripleSum",
+      "request": "launch",
+      "mainClass": "_11TripleSum",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_12Sort01",
+      "request": "launch",
+      "mainClass": "_12Sort01",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_07FindUnique",
       "request": "launch",
       "mainClass": "_07FindUnique",

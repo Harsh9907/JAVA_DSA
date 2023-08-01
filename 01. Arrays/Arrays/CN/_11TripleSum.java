@@ -1,10 +1,11 @@
 public class _11TripleSum {
     public static void main(String[] args) {
-        // int[] arr = {1, 2, 3, 4, 5, 6, 7};
-        // int sum = 12;
-        int[] arr = { 2, -5, 8, -6, 0, 5, 10, 11, -3 };
-        int sum = 10;
+        int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
+        int sum = 12;
+        int[] arr1 = { 2, -5, 8, -6, 0, 5, 10, 11, -3 };
+        int sum1 = 10;
         System.out.println("Total Number triplets for target " + sum + ": " + tripleSum(arr, sum));
+        System.out.println("Total Number triplets for target " + sum1 + ": " + tripleSum(arr1, sum1));
     }
 
     public static int tripleSum(int[] arr, int sum) {
