@@ -1,8 +1,6 @@
-package MileStone1.Arrays;
-
 public class _02LargestElement {
     public static void main(String[] args) {
-        int[] arr= {11,2,3,4,5};
+        int[] arr = { 11, 2, 3, 4, 5 };
         System.out.print(largestElement(arr));
     }
 
@@ -10,7 +8,7 @@ public class _02LargestElement {
         int n = arr.length;
         int max = arr[0];
         for (int i = 1; i < n; i++) {
-            if(arr[i] > max){
+            if (arr[i] > max) {
                 max = arr[i];
             }
         }

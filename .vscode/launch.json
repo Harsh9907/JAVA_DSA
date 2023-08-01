@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_07FindUnique",
+      "request": "launch",
+      "mainClass": "_07FindUnique",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_03_InsertionSorting",
       "request": "launch",
       "mainClass": "_03_InsertionSorting",

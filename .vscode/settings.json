@@ -3,10 +3,11 @@
     "03. Recursion/Basics",
     "02. Strings/StringBuilder",
     "02. Strings/AlgoCamp",
+    "01. Arrays/Sorting",
     "01. Arrays/Searching",
     "01. Arrays/Arrays/Leetcode",
     "01. Arrays/Arrays/AlgoCamp/Arrays",
-    "01. Arrays/Sorting"
+    "01. Arrays/Arrays/CN"
   ],
   "java.debug.settings.onBuildFailureProceed": true
 }
