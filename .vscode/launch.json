@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_02_TransposeMatrix",
+      "request": "launch",
+      "mainClass": "_02_TransposeMatrix",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_27PrintLikeAWave",
+      "request": "launch",
+      "mainClass": "_27PrintLikeAWave",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_26TotalSumOnTheBoundariesAndDiagonals",
       "request": "launch",
       "mainClass": "_26TotalSumOnTheBoundariesAndDiagonals",
