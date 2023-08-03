@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_26TotalSumOnTheBoundariesAndDiagonals",
+      "request": "launch",
+      "mainClass": "_26TotalSumOnTheBoundariesAndDiagonals",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_25LargestColumnOrRowSum",
       "request": "launch",
       "mainClass": "_25LargestColumnOrRowSum",
