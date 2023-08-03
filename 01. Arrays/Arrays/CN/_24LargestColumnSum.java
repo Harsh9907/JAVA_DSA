@@ -2,11 +2,11 @@ public class _24LargestColumnSum {
     public static void main(String[] args) {
         int[][] arr = {
                 { 1, 2, 3 },
-                { 3, 4, 1 },
+                { 3, 5, 1 },
                 { 5, 6, 2 }
         };
         int result = largestColumnSum(arr);
-        System.out.println("The largest sum of the column present is " + result);
+        System.out.println("The largest sum of the column present is " + result); // output : 13
     }
 
     public static int largestColumnSum(int[][] arr) {
