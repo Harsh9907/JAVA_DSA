@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_24LargestColumnSum",
+      "request": "launch",
+      "mainClass": "_24LargestColumnSum",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_23RowWiseSum",
+      "request": "launch",
+      "mainClass": "_23RowWiseSum",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_22ColumnWiseInputAndPrinting2DArray",
       "request": "launch",
       "mainClass": "_22ColumnWiseInputAndPrinting2DArray",
