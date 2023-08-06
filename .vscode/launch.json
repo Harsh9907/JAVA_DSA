@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_01_PrintWaveArray",
+      "request": "launch",
+      "mainClass": "_01_PrintWaveArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_03_MatrixMultiplication",
+      "request": "launch",
+      "mainClass": "_03_MatrixMultiplication",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_02_TransposeMatrix",
       "request": "launch",
       "mainClass": "_02_TransposeMatrix",
