@@ -5,5 +5,8 @@ public class _02_BicycleClient {
 
         String result = sportBike.braking();
         System.out.println(result + "   Harsh");
+
+        String result2 = sportBike.accelerating();
+        System.out.println(result2 + "  ");
     }
 }

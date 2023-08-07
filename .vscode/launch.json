@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_04_LampClient",
+      "request": "launch",
+      "mainClass": "_04_LampClient",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_02_BicycleClient",
       "request": "launch",
       "mainClass": "_02_BicycleClient",
