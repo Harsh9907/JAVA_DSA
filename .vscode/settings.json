@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "04. OOPS",
     "03. Recursion/Basics",
     "02. Strings/StringBuilder",
     "02. Strings/AlgoCamp",
@@ -9,7 +10,7 @@
     "01. Arrays/Arrays/CN",
     "01. Arrays/Arrays/AlgoCamp/Arrays2d",
     "01. Arrays/Arrays/AlgoCamp/Arrays",
-    "04. OOPS"
+    "01. Arrays/Arrays/TUF"
   ],
   "java.debug.settings.onBuildFailureProceed": true
 }
