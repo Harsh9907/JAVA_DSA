@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_02_SecondLargestElement",
+      "request": "launch",
+      "mainClass": "_02_SecondLargestElement",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_01_LargestElement",
       "request": "launch",
       "mainClass": "_01_LargestElement",
