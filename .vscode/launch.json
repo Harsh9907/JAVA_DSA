@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_05_LeftRotateAnArrayByOnePlace",
+      "request": "launch",
+      "mainClass": "_05_LeftRotateAnArrayByOnePlace",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_04_RemoveDuplicates",
       "request": "launch",
       "mainClass": "_04_RemoveDuplicates",
