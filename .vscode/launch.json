@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_06_LeftRotateAnArrayByDPlaces",
+      "request": "launch",
+      "mainClass": "_06_LeftRotateAnArrayByDPlaces",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_05_LeftRotateAnArrayByOnePlace",
       "request": "launch",
       "mainClass": "_05_LeftRotateAnArrayByOnePlace",
