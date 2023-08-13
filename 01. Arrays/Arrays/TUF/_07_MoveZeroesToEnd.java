@@ -8,13 +8,13 @@ public class _07_MoveZeroesToEnd {
     }
 
     public static void moveZeroesToEnd(int[] arr) {
-        int nextZeroPos = 0;
+        int nonZeroPos = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] != 0) {
-                int temp = arr[nextZeroPos];
-                arr[nextZeroPos] = arr[i];
+                int temp = arr[nonZeroPos];
+                arr[nonZeroPos] = arr[i];
                 arr[i] = temp;
-                nextZeroPos++;
+                nonZeroPos++;
             }
         }
     }
