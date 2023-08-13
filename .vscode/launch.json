@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_08_LinearSearch",
+      "request": "launch",
+      "mainClass": "_08_LinearSearch",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_07_MoveZeroesToEnd",
       "request": "launch",
       "mainClass": "_07_MoveZeroesToEnd",
