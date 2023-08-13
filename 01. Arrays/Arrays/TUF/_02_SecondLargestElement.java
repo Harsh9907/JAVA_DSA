@@ -5,7 +5,8 @@ public class _02_SecondLargestElement {
         int[] arr = { 1, 2, 3, 4, 5, 6 };
         System.out.println("The Second Largest element present : " + secondLargest(arr));
     }
-    // Time Complexity = O(nlogn) 
+
+    // Time Complexity = O(nlogn)
     // Space Complexity = O(1)
     public static int secondLargest(int[] arr) {
         int secondLargest = Integer.MIN_VALUE;
@@ -15,6 +16,4 @@ public class _02_SecondLargestElement {
         secondLargest = arr[arr.length - 2];
         return secondLargest;
     }
-
-
 }
