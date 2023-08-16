@@ -13,7 +13,7 @@ public class _01_PrintWaveArray {
 
     public static ArrayList<Integer> printWave(int[][] arr) {
         int n = arr.length;
-        ArrayList<Integer> list = new ArrayList<>(9);
+        ArrayList<Integer> list = new ArrayList<>(10);
 
         for (int j = 0; j < arr[0].length; j++) {
             for (int i = 0; i < arr.length; i++) {

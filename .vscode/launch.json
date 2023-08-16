@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_03_RunningSum1DArray",
+      "request": "launch",
+      "mainClass": "_03_RunningSum1DArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_05_SwappingArray",
       "request": "launch",
       "mainClass": "_05_SwappingArray",
