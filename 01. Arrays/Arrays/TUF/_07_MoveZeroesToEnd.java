@@ -9,11 +9,11 @@ public class _07_MoveZeroesToEnd {
 
     public static void moveZeroesToEnd(int[] arr) {
         int nonZeroPos = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] != 0) {
+        for (int current = 0; current < arr.length; current++) {
+            if (arr[current] != 0) {
                 int temp = arr[nonZeroPos];
-                arr[nonZeroPos] = arr[i];
-                arr[i] = temp;
+                arr[nonZeroPos] = arr[current];
+                arr[current] = temp;
                 nonZeroPos++;
             }
         }

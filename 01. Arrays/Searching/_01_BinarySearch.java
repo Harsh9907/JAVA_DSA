@@ -1,7 +1,7 @@
 public class _01_BinarySearch {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8 };
-        int element = 8;
+        int element = 1;
         System.out.println(binarySearch(arr, element));
     }
 
