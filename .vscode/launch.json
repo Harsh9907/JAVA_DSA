@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_09_FindUnion",
+      "request": "launch",
+      "mainClass": "_09_FindUnion",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_03_RunningSum1DArray",
       "request": "launch",
       "mainClass": "_03_RunningSum1DArray",
