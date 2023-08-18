@@ -7,6 +7,8 @@ public class _10_FindMissingNumberInAnArray {
         System.out.println(missingNumXOR(arr));
     }
 
+    // Time Complexity : O(N^2)
+    // Space Complexity : O(1)
     public static int missingNum(int[] arr, int n) {
         for (int i = 1; i <= n; i++) {
             int flag = 0;
@@ -23,6 +25,8 @@ public class _10_FindMissingNumberInAnArray {
         return -1;
     }
 
+    // Time Complexity : O(N)
+    // Space Complexity : O(1)
     public static int missingNumber(int[] arr) {
         int n = arr.length, sum = 0;
         for (int i : arr) {
@@ -31,6 +35,8 @@ public class _10_FindMissingNumberInAnArray {
         return (((n + 1) * (n + 2)) / 2) - sum;
     }
 
+    // Time Complexity : O(N)
+    // Space Complexity : O(1)
     public static int missingNumXOR(int[] arr) {
         int n = arr.length;
         int xor1 = 0, xor2 = 0;
