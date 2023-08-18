@@ -19,7 +19,7 @@ public class _09_FindUnion {
             s.add(arr1[i]);
         }
         for (int i = 0; i < arr2.length; i++) {
-            s.add(arr2[j]);
+            s.add(arr2[i]);
         }
         for (int value : s) {
             Union.add(value);
