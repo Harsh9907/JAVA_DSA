@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_10_FindMissingNumberInAnArray",
+      "request": "launch",
+      "mainClass": "_10_FindMissingNumberInAnArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "_11_MaximumConsecutiveOnes",
+      "request": "launch",
+      "mainClass": "_11_MaximumConsecutiveOnes",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_09_FindUnion",
       "request": "launch",
       "mainClass": "_09_FindUnion",

@@ -29,7 +29,8 @@ public class _09_FindUnion {
 
     // m = arr1.length, n = arr2.length
     // Time Complexity = O(m + n)
-    // Space Complexity = O(m + n)
+    // Space Complexity = O(1) in solving the problems, O(m+n) in returing the
+    // Arraylist
     public static ArrayList<Integer> findUnion(int[] arr1, int[] arr2) {
         int i = 0, j = 0;
         ArrayList<Integer> Union = new ArrayList<>();
