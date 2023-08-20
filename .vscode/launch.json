@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_07_InfiniteArrayBS",
+      "request": "launch",
+      "mainClass": "_07_InfiniteArrayBS",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
+      "name": "InfiniteArray",
+      "request": "launch",
+      "mainClass": "InfiniteArray",
+      "projectName": "JAVA_DSA_cf954646"
+    },
+    {
+      "type": "java",
       "name": "_15_2SumProblem",
       "request": "launch",
       "mainClass": "_15_2SumProblem",
