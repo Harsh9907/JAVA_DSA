@@ -11,7 +11,7 @@ public class _01_IntersectionOf2Arrays {
     // public static ArrayList<Integer> intersection2Arrays(int[] arr1, int[] arr2) {
     //     int n1 = arr1.length;
     //     int n2 = arr2.length;
-    //     ArrayList<Integer> list = new ArrayList<>();
+    //     ArrayList<Integer> intersectList = new ArrayList<>();
     //     for (int i = 0; i < n1; i++) {
     //         for (int j = 0; j < n2; j++) {
     //             if(arr1[i] == arr2[j]){
@@ -20,7 +20,7 @@ public class _01_IntersectionOf2Arrays {
     //             }
     //         }
     //     }
-    //     return list;
+    //     return intersectList;
     // }
     public static ArrayList<Integer> intersection2Arrays(int[] arr1, int[] arr2){
         int i=0,j =0;
