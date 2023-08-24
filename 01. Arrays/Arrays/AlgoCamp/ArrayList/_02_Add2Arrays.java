@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Add2Arrays {
+public class _02_Add2Arrays {
     public static void main(String[] args) {
         int[] one = {9, 9};
         int[] two = {9, 9, 9};

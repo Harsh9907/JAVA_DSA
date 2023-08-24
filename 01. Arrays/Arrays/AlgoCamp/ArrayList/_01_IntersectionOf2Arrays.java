@@ -1,4 +1,3 @@
-package ArrayList;
 import java.util.ArrayList;
 
 public class _01_IntersectionOf2Arrays {

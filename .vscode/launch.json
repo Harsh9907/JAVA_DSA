@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_02_Add2Arrays",
+      "request": "launch",
+      "mainClass": "_02_Add2Arrays",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "Add2Arrays",
+      "request": "launch",
+      "mainClass": "Add2Arrays",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_01_IntersectionOf2Arrays",
+      "request": "launch",
+      "mainClass": "_01_IntersectionOf2Arrays",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_07_InfiniteArrayBS",
       "request": "launch",
       "mainClass": "_07_InfiniteArrayBS",
