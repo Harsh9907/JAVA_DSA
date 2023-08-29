@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_03_CkeckingArraysIsSorted",
+      "request": "launch",
+      "mainClass": "_03_CkeckingArraysIsSorted",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_02_SecondLargestElement",
       "request": "launch",
       "mainClass": "_02_SecondLargestElement",
