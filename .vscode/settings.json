@@ -11,7 +11,8 @@
     "01. Arrays/Arrays/CN",
     "01. Arrays/Arrays/AlgoCamp/Arrays2d",
     "01. Arrays/Arrays/AlgoCamp/Arrays",
-    "01. Arrays/Arrays/AlgoCamp/ArrayList"
+    "01. Arrays/Arrays/AlgoCamp/ArrayList",
+    "13. Hashmaps/1. CN"
   ],
   "java.debug.settings.onBuildFailureProceed": true
 }
