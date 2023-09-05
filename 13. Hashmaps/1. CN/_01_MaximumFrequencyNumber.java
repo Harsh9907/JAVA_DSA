@@ -29,4 +29,5 @@ public class _01_MaximumFrequencyNumber {
         return "";
     }
     HashMap<Character, Boolean> map = new HashMap<>();
+    }
 }
