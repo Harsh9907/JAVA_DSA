@@ -5,8 +5,9 @@ public class _04_RemoveDuplicates {
     public static void main(String[] args) {
         int[] arr = { 1, 1, 2, 2, 2, 3, 3, 4, 4 };
         System.out.println(removeDuplicates(arr));
+        System.out.println(Arrays.toString(arr));
         System.out.println(removeDuplicates1(arr));
-        // System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 
     // Time Complexity= O(nlogn + n)
