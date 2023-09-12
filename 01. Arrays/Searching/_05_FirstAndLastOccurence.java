@@ -1,5 +1,28 @@
 import java.util.Arrays;
 
+// Time Complexity = O(N);
+// Space Complexity = O(1);
+// public class _05_FirstAndLastOccurence {
+//     public static void main(String[] args) {
+//         int[] arr ={1,2,3,4,5,5,5,5,6};
+//         System.out.println(Arrays.toString(firstAndLastOcc(arr,5)));
+//     }
+//     public static int[] firstAndLastOcc(int[] arr, int target){
+//         int first=-1, last = -1;
+//         for(int i = 0; i< arr.length-1;i++){
+//             if(target == arr[i]){
+//                 if(first == -1){
+//                     first = i;
+//                 }
+//                 last = i;
+//             }
+//         }        
+//         return new int[]{first,last};
+//     }
+// }
+
+// Time Complexity = O(log(N));
+// Space Complexity = O(1);
 public class _05_FirstAndLastOccurence {
     public static void main(String[] args) {
         int[] nums = { 1, 2, 3, 4, 5, 5, 5, 6 };
