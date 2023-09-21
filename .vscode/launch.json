@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_15_2SumProblem",
+      "request": "launch",
+      "mainClass": "_15_2SumProblem",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_04_RemoveDuplicates",
       "request": "launch",
       "mainClass": "_04_RemoveDuplicates",
