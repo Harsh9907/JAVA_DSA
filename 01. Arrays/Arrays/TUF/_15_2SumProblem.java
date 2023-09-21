@@ -26,6 +26,7 @@ public class _15_2SumProblem {
     // Time Complexity = O(n)
     // Space Complexity = O(1) for solving the problem.
     public static int[] twoSum1(int[] arr, int target) {
+        // If the given array is unsorted, we have to sort it first,then time complexity = O(n + nlogn)   
         int left = 0, right = arr.length - 1;
         while (left < right) {
             int sum = arr[left] + arr[right];
