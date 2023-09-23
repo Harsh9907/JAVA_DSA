@@ -1,4 +1,3 @@
-package Arraylist;
 import java.util.Arrays;
 
 public class _03_RunningSum1DArray {

@@ -7,7 +7,7 @@ public class _28PrintSpiral {
                 { 8, 9, 4 },
                 { 7, 6, 5 }
         };
-        int result = spiralMatrix(arr);
+        ArrayList<Integer> result = spiralMatrix(arr);
         System.out.println(result);
     }
 
