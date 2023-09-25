@@ -3,11 +3,13 @@ import java.util.*;
 public class _06_LeftRotateAnArrayByDPlaces {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
-        int d = 3;
-        // leftRotationByDPlaces(arr, d);
+        int d = 2;
+        // int[] resultLeftRotate= leftRotationByDPlaces(arr, d);
+        // System.out.println(Arrays.toString(resultLeftRotate));
+        // leftRotationByDPlaces1(arr, d);
         System.out.println(Arrays.toString(arr));
-        leftRotationByDPlaces1(arr, d);
-        System.out.println(Arrays.toString(arr));
+        int[] resultRightRotate = rightRotationByDPlaces(arr, d);
+        System.out.println(Arrays.toString(resultRightRotate));
     }
 
     // Time Complexity O(n+d)
@@ -31,12 +33,14 @@ public class _06_LeftRotateAnArrayByDPlaces {
 
     // Time Complexity O(n)
     // Space Complexity O(1)
-    public static void leftRotationByDPlaces(int[] arr, int d) {
+    public static int[] leftRotationByDPlaces(int[] arr, int d) {
+        int[] arr1 = arr;
         int n = arr.length - 1;
         d = d % n;
-        rev(arr, 0, d - 1);
-        rev(arr, d, n);
-        rev(arr, 0, n);
+        rev(arr1, 0, d - 1);
+        rev(arr1, d, n);
+        rev(arr1, 0, n);
+        return arr1;
     }
 
     public static void rev(int[] arr, int start, int end) {
@@ -47,5 +51,15 @@ public class _06_LeftRotateAnArrayByDPlaces {
             start++;
             end--;
         }
+    }
+
+    public static int[] rightRotationByDPlaces(int[] arr, int d) {
+        int[] arr1 = arr;
+        int n = arr.length - 1;
+        d = d % n;
+        rev(arr1, n-d+1, n);
+        rev(arr1, 0, n-d);
+        rev(arr1, 0, n);
+        return arr1;
     }
 }
