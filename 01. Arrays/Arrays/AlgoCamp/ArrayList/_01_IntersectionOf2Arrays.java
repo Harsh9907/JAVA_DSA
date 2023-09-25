@@ -7,6 +7,10 @@ public class _01_IntersectionOf2Arrays {
         ArrayList<Integer> result = intersection2Arrays(arr1,arr2);
         System.out.println(result);
     }
+
+    // //Time Complexity = O(n^2);
+    // //Space Complexity = O(n)
+
     // public static ArrayList<Integer> intersection2Arrays(int[] arr1, int[] arr2) {
     //     int n1 = arr1.length;
     //     int n2 = arr2.length;
@@ -21,6 +25,10 @@ public class _01_IntersectionOf2Arrays {
     //     }
     //     return intersectList;
     // }
+
+    // //Time Complexity = O(n)  
+    // //Space Complexity = O(n) // for solving the problem space complexity = O(1); 
+    
     public static ArrayList<Integer> intersection2Arrays(int[] arr1, int[] arr2){
         int i=0,j =0;
         ArrayList<Integer> list = new ArrayList<>();

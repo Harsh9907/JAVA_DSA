@@ -6,8 +6,10 @@ public class _02_Add2Arrays {
         int[] two = {9, 9, 9};
         System.out.println(sumOfTwoArrays(one, two));
     }
-    private static ArrayList<Integer> sumOfTwoArrays(int[] one, int[] two) {
 
+    // Time Complexity = O(n)
+    // Space Complexity = O(n)
+    private static ArrayList<Integer> sumOfTwoArrays(int[] one, int[] two) {
         ArrayList<Integer> ans = new ArrayList<>();
         int carry = 0;
         int i = one.length - 1;

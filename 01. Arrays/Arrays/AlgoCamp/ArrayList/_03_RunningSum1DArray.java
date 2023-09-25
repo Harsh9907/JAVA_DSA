@@ -6,7 +6,8 @@ public class _03_RunningSum1DArray {
         int[] result = runningSum(arr);
         System.out.print(Arrays.toString(result));
     }
-
+    // Time Complexity = O(n)
+    // Space Complexity = O(1)
     public static int[] runningSum(int[] arr) {
         // int sum = 0;
         int n = arr.length;
