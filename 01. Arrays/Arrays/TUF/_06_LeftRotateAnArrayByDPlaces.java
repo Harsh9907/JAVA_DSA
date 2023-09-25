@@ -10,8 +10,8 @@ public class _06_LeftRotateAnArrayByDPlaces {
         System.out.println(Arrays.toString(arr));
     }
 
-    // Time Complexity O(n)
-    // Space Complexity O(1)
+    // Time Complexity O(n+d)
+    // Space Complexity O(d)
 
     public static void leftRotationByDPlaces1(int[] arr , int d){
         int n = arr.length;
