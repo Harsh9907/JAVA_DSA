@@ -3,7 +3,9 @@ public class _11_MaximumConsecutiveOnes {
         int[] arr = { 1, 1, 0, 1, 1, 1, 0, 0, 1, 1 };
         System.out.println(maxOneCons(arr));
     }
-
+    // Time Complexity = O(n)
+    // Space COmplexity = O(1)
+    
     public static int maxOneCons(int[] arr) {
         int count = 0, max = 0;
         for (int i = 0; i < arr.length; i++) {

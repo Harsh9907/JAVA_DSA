@@ -3,6 +3,7 @@ public class _10_FindMissingNumberInAnArray {
         int[] arr = { 1, 2, 3, 5, 6, 7 };
         int n = 7;
         System.out.println(missingNum(arr, n));
+        System.out.println(missingNum1(arr, n));
         System.out.println(missingNumber(arr));
         System.out.println(missingNumXOR(arr));
     }
@@ -47,5 +48,15 @@ public class _10_FindMissingNumberInAnArray {
         xor1 = xor1 ^ n;
 
         return xor1 ^ xor2;
+    }
+
+    public static int missingNum1(int[] arr,int n) {
+        
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i] != i+1){
+                return i+1;
+            }
+        }
+        return n;
     }
 }
