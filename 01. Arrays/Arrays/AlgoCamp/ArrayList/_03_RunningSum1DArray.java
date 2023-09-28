@@ -3,11 +3,14 @@ import java.util.Arrays;
 public class _03_RunningSum1DArray {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
-        int[] result = runningSum(arr);
-        System.out.print(Arrays.toString(result));
+        // int[] result = runningSum(arr);
+        // System.out.print(Arrays.toString(result));
+        runningSum1(arr);
+        System.out.print(Arrays.toString(arr));
     }
+
     // Time Complexity = O(n)
-    // Space Complexity = O(1)
+    // Space Complexity = O(n)
     public static int[] runningSum(int[] arr) {
         // int sum = 0;
         int n = arr.length;
@@ -19,12 +22,22 @@ public class _03_RunningSum1DArray {
         // }
         // return result;
 
-        // prefix sum approach, in this approach, we use previous arr element or result to get the current result.
+        // prefix sum approach, in this approach, we use previous arr element or result
+        // to get the current result.
 
         result[0] = arr[0];
         for (int i = 1; i < n; i++) {
             result[i] = result[i - 1] + arr[i];
         }
         return result;
+    }
+
+    // Time Complexity = O(n)
+    // Space Complexity = O(1)
+
+    public static void runningSum1(int[] arr) {
+        for (int i = 1; i < arr.length; i++) {
+            arr[i] = arr[i] + arr[i - 1];
+        }
     }
 }
