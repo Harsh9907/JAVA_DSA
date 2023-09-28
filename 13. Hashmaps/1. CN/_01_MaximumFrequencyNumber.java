@@ -12,22 +12,24 @@ public class _01_MaximumFrequencyNumber {
         System.out.println(Arrays.toString(ch));
 
     }
+
     public static char[] uniqueCharacter(char[] arr) {
         HashSet<Character> set = new HashSet<>();
         for (int i = 0; i < arr.length; i++) {
             set.add(arr[i]);
         }
         char[] ch = new char[set.size()];
-        int j =0;
+        int j = 0;
         for (char c : set) {
             ch[j++] = c;
         }
         return ch;
     }
-    public static String uniqueChar(String str) {
-    if(str.length() == 0){
-        return "";
-    }
-    HashMap<Character, Boolean> map = new HashMap<>();
-    }
+
+    // public static String uniqueChar(String str) {
+    // if (str.length() == 0) {
+    // return "";
+    // }
+    // HashMap<Character, Boolean> map = new HashMap<>();
+    // }
 }
