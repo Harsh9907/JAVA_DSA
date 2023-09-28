@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_10_FindElementInRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "_10_FindElementInRotatedSortedArray",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_10_SearchInNearlySortedArray",
+      "request": "launch",
+      "mainClass": "_10_SearchInNearlySortedArray",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_09_CountRotateArray",
       "request": "launch",
       "mainClass": "_09_CountRotateArray",
