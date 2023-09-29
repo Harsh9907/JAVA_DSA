@@ -1,4 +1,4 @@
-public class _08_RotatedSortedArray {
+public class _08_FindElementInRotatedSortedArray {
     public static void main(String[] args) {
         int[] arr = { 11, 12, 2, 3, 4, 5, 6 };
         int target = 2;

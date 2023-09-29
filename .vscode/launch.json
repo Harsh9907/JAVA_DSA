@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_14_FindMInimumDifferenceInASortedArray",
+      "request": "launch",
+      "mainClass": "_14_FindMInimumDifferenceInASortedArray",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_12_SmallestLetter",
+      "request": "launch",
+      "mainClass": "_12_SmallestLetter",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_13_FindIndexOf1InInfiniteBinaryArray",
       "request": "launch",
       "mainClass": "_13_FindIndexOf1InInfiniteBinaryArray",
