@@ -5,7 +5,11 @@ public class _14_FindMInimumDifferenceInASortedArray {
         int result = search(arr, key);
         System.out.println(result);
     }
+    // Time Complexity = O(2N);
+    // Space Complexity = O(1);
 
+    // Time Complexity = O(logN)
+    // Space Complexity = O(1)
     public static int search(int[] arr, int key) {
         int floor = binarySearch(arr, key, true);
         int ceil = binarySearch(arr, key, false);

@@ -29,10 +29,10 @@ public class _02_SecondLargestElement {
 
         Arrays.sort(arr);
         int n = arr.length;
-        int largest = arr[n-1];
+        int largest = arr[n - 1];
 
-        for (int i = n-2; i >= 0; i--) {
-            if(arr[i] != largest){
+        for (int i = n - 2; i >= 0; i--) {
+            if (arr[i] != largest) {
                 return arr[i];
             }
         }
@@ -44,17 +44,17 @@ public class _02_SecondLargestElement {
 
     // here algo goes two times arrays traversal
 
-    public static int secondLargest2(int[] arr){
+    public static int secondLargest2(int[] arr) {
         int largest = -1;
         int secondLargest = -1;
 
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i] > largest){
+            if (arr[i] > largest) {
                 largest = arr[i];
             }
         }
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i] > secondLargest && arr[i] != largest){
+            if (arr[i] > secondLargest && arr[i] != largest) {
                 secondLargest = arr[i];
             }
         }
@@ -66,17 +66,17 @@ public class _02_SecondLargestElement {
 
     // here algo goes two times arrays traversal
 
-    public static int secondLargest3(int[] arr){
+    public static int secondLargest3(int[] arr) {
         int largest = -1;
         int secondLargest = -1;
 
         for (int i = 0; i < arr.length; i++) {
-           if(arr[i] > largest){
-               secondLargest = largest;
-               largest = arr[i];
-           }else if(arr[i] > secondLargest && arr[i] != largest){
+            if (arr[i] > largest) {
+                secondLargest = largest;
+                largest = arr[i];
+            } else if (arr[i] > secondLargest && arr[i] != largest) {
                 secondLargest = arr[i];
-           }
+            }
         }
         return secondLargest;
     }
