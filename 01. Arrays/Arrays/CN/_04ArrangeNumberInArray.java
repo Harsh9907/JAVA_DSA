@@ -5,7 +5,7 @@ public class _04ArrangeNumberInArray {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Size of Array: ");
         int sizeOfArray = sc.nextInt();
-
+        sc.close();
         int[] arr = new int[sizeOfArray];
         arrangeArray(arr);
         System.out.println(Arrays.toString(arr));

@@ -1,6 +1,6 @@
 public class _07FindUnique {
     public static void main(String[] args) {
-        int[] arr = { 1, 1, 2, 2, 3, 3 };
+        int[] arr = { 1, 1, 2, 3, 3 };
         int result = findUnique(arr);
         System.out.println(result);
     }

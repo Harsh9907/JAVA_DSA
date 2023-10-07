@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_09IntersectionOfTwoArrays",
+      "request": "launch",
+      "mainClass": "_09IntersectionOfTwoArrays",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_07FindUnique",
+      "request": "launch",
+      "mainClass": "_07FindUnique",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_09_FindUnion",
       "request": "launch",
       "mainClass": "_09_FindUnion",
