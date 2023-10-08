@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_28PrintSpiral",
+      "request": "launch",
+      "mainClass": "_28PrintSpiral",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_03_MatrixMultiplication",
+      "request": "launch",
+      "mainClass": "_03_MatrixMultiplication",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_09IntersectionOfTwoArrays",
       "request": "launch",
       "mainClass": "_09IntersectionOfTwoArrays",
