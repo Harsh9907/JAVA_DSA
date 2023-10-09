@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class _28PrintSpiral {
     public static void main(String[] args) {
         int[][] arr = {
