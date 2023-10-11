@@ -4,6 +4,7 @@
     "04. OOPS",
     "03. Recursion/Basics",
     "02. Strings/StringBuilder",
+    "02. Strings/CN",
     "02. Strings/AlgoCamp",
     "01. Arrays/Sorting",
     "01. Arrays/Searching",
@@ -13,7 +14,7 @@
     "01. Arrays/Arrays/AlgoCamp/Arrays2d",
     "01. Arrays/Arrays/AlgoCamp/Arrays",
     "01. Arrays/Arrays/AlgoCamp/ArrayList",
-    "02. Strings/CN"
+    "02. Strings"
   ],
   "java.debug.settings.onBuildFailureProceed": true
 }

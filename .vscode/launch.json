@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_02_CN_PrintAllCharsOfAString",
+      "request": "launch",
+      "mainClass": "_02_CN_PrintAllCharsOfAString",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_03_Substring",
+      "request": "launch",
+      "mainClass": "_03_Substring",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_01_CountWords",
       "request": "launch",
       "mainClass": "_01_CountWords",
