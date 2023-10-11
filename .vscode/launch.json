@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_01_CountWords",
+      "request": "launch",
+      "mainClass": "_01_CountWords",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_12_FindUnique",
+      "request": "launch",
+      "mainClass": "_12_FindUnique",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_08_SetMatrixZereoes",
+      "request": "launch",
+      "mainClass": "_08_SetMatrixZereoes",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_28PrintSpiral",
       "request": "launch",
       "mainClass": "_28PrintSpiral",
