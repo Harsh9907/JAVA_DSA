@@ -1,6 +1,5 @@
 public class _01_Palindrome {
     public static void main(String[] args) {
-        System.out.println("Harshdeep Singh");
         String str = "harah";
         System.out.println(isPalindrome(str));
     }
