@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_06_ArraySum",
+      "request": "launch",
+      "mainClass": "_06_ArraySum",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStringWordWise",
+      "request": "launch",
+      "mainClass": "ReverseStringWordWise",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
+      "name": "_03_CN_ReverseString",
+      "request": "launch",
+      "mainClass": "_03_CN_ReverseString",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_02_CN_PrintAllCharsOfAString",
       "request": "launch",
       "mainClass": "_02_CN_PrintAllCharsOfAString",
