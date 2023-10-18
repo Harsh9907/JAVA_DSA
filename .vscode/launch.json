@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "_05_Fibonacci",
+      "request": "launch",
+      "mainClass": "_05_Fibonacci",
+      "projectName": "JAVA_DSA_712f0ecb"
+    },
+    {
+      "type": "java",
       "name": "_06_ArraySum",
       "request": "launch",
       "mainClass": "_06_ArraySum",
